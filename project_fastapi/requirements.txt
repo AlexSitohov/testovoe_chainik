@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
+psycopg2-binary
+pytest
+httpx
+python-dotenv
+websockets
+redis
+py-fastapi-logging
